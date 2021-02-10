@@ -1,0 +1,14 @@
+2021-01-12 21:29:20 INFO  DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-01-12 21:29:20 INFO  DispatcherServlet:547 - Completed initialization in 10 ms
+2021-01-12 21:29:20 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2021-01-12 21:29:20 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-12 21:29:20 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-12 21:29:20 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：292 毫秒 ===
+2021-01-12 21:29:39 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2021-01-12 21:29:39 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CarouselServiceImpl.queryAll ======
+2021-01-12 21:29:39 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：17 毫秒 ===
+2021-01-12 21:29:39 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：30 毫秒 ===
+2021-01-12 21:29:42 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2021-01-12 21:29:42 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CarouselServiceImpl.queryAll ======
+2021-01-12 21:29:42 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：4 毫秒 ===
+2021-01-12 21:29:42 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：4 毫秒 ===

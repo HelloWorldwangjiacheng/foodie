@@ -1,0 +1,2 @@
+2021-01-10 13:23:19 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CarouselServiceImpl.queryAll ======
+2021-01-10 13:23:19 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：9 毫秒 ===

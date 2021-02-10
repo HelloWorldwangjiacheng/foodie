@@ -1,0 +1,26 @@
+2021-02-09 17:30:02 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById ======
+2021-02-09 17:30:02 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-02-09 17:30:02 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-02-09 17:30:02 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：246 毫秒 ===
+2021-02-09 17:30:02 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList ======
+2021-02-09 17:30:02 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：28 毫秒 ===
+2021-02-09 17:30:02 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList ======
+2021-02-09 17:30:02 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：11 毫秒 ===
+2021-02-09 17:30:02 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam ======
+2021-02-09 17:30:02 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：8 毫秒 ===
+2021-02-09 17:30:26 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById ======
+2021-02-09 17:30:26 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：6 毫秒 ===
+2021-02-09 17:30:26 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList ======
+2021-02-09 17:30:26 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：4 毫秒 ===
+2021-02-09 17:30:26 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList ======
+2021-02-09 17:30:26 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：6 毫秒 ===
+2021-02-09 17:30:26 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam ======
+2021-02-09 17:30:26 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：4 毫秒 ===
+2021-02-09 17:30:47 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2021-02-09 17:30:47 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CarouselServiceImpl.queryAll ======
+2021-02-09 17:30:47 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：7 毫秒 ===
+2021-02-09 17:30:47 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：8 毫秒 ===
+2021-02-09 17:30:48 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2021-02-09 17:30:48 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：12 毫秒 ===
+2021-02-09 17:30:49 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2021-02-09 17:30:49 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：7 毫秒 ===

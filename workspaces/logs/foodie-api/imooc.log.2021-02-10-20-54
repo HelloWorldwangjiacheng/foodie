@@ -1,0 +1,43 @@
+2021-02-10 20:54:11 INFO  Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2021-02-10 20:54:12 INFO  Application:55 - Starting Application on LAPTOP-6H8M2BR6 with PID 8160 (D:\projects\foodie\foodie-api\target\classes started by 王嘉程 in D:\projects\foodie)
+2021-02-10 20:54:12 INFO  Application:651 - No active profile set, falling back to default profiles: default
+2021-02-10 20:54:13 WARN  ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.imooc]' package. Please check your configuration.
+2021-02-10 20:54:13 INFO  PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-02-10 20:54:14 INFO  TomcatWebServer:92 - Tomcat initialized with port(s): 9900 (http)
+2021-02-10 20:54:14 INFO  ContextLoader:284 - Root WebApplicationContext: initialization completed in 2301 ms
+2021-02-10 20:54:16 INFO  ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-10 20:54:16 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-02-10 20:54:16 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-02-10 20:54:16 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-02-10 20:54:16 INFO  MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-02-10 20:54:16 INFO  DocumentationPluginsBootstrapper:84 - Context refreshed
+2021-02-10 20:54:16 INFO  DocumentationPluginsBootstrapper:87 - Found 1 custom documentation plugin(s)
+2021-02-10 20:54:16 INFO  ApiListingReferenceScanner:44 - Scanning for api listing references
+2021-02-10 20:54:16 INFO  TomcatWebServer:204 - Tomcat started on port(s): 9900 (http) with context path ''
+2021-02-10 20:54:16 INFO  Application:61 - Started Application in 5.297 seconds (JVM running for 6.487)
+2021-02-10 20:54:27 INFO  DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-02-10 20:54:27 INFO  DispatcherServlet:547 - Completed initialization in 10 ms
+2021-02-10 20:54:27 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById ======
+2021-02-10 20:54:27 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryCommentCounts ======
+2021-02-10 20:54:27 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments ======
+2021-02-10 20:54:27 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-02-10 20:54:27 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-02-10 20:54:27 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：222 毫秒 ===
+2021-02-10 20:54:27 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList ======
+2021-02-10 20:54:27 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：225 毫秒 ===
+2021-02-10 20:54:27 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：230 毫秒 ===
+2021-02-10 20:54:27 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：30 毫秒 ===
+2021-02-10 20:54:27 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList ======
+2021-02-10 20:54:27 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：9 毫秒 ===
+2021-02-10 20:54:27 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam ======
+2021-02-10 20:54:27 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：6 毫秒 ===
+2021-02-10 20:54:33 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments ======
+2021-02-10 20:54:33 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：11 毫秒 ===
+2021-02-10 20:54:36 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments ======
+2021-02-10 20:54:36 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：8 毫秒 ===
+2021-02-10 20:54:37 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments ======
+2021-02-10 20:54:37 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：4 毫秒 ===
+2021-02-10 20:54:40 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments ======
+2021-02-10 20:54:40 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：8 毫秒 ===
+2021-02-10 20:54:40 INFO  ServiceLogAspect:42 - ====== 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments ======
+2021-02-10 20:54:40 INFO  ServiceLogAspect:60 -  === 执行结束，耗时：4 毫秒 ===
